@@ -1,4 +1,4 @@
-### Hi there 👋 It's [Astor!](https://astorayestas.tk)
+### Hi there 👋 It's [Astor!](https://astorayestas.dev)
 
 A 🧑🏽‍💻software developer and passionate about web technologies focused on building elegant and efficient applications.
 
